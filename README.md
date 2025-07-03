@@ -159,6 +159,8 @@ create_ec2_instances
   * `sg-0123...` with your actual **Security Group ID**
   * `subnet-0123...` with your actual **Subnet ID**
 * ✅ Ensure AWS CLI is **configured** with `aws configure`.
+you can also go through this code and edit to your own configuration
+[create-instance-bucket](/bucket_Dept.sh)
 
 
 
